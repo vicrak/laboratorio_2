@@ -42,6 +42,5 @@ public class actividad_1 {
             num2 = siguiente;
         }
         System.out.print("Resultado: " + resultado1);
-
     }
 }

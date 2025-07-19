@@ -26,8 +26,5 @@ public class actividad_2 {
         //calculo de horas
         double horas = totalminuts / 60.0;
         System.out.printf("Horas totales jugadas: %.2f", horas);
-
-
-
     }
 }
